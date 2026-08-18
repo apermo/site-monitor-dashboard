@@ -7,6 +7,9 @@ on:
 jobs:
     stale:
         uses: apermo/reusable-workflows/.github/workflows/reusable-stale.yml@v0.4.3
+        with:
+            # -1 means never close, only mark as stale.
+            days-before-close: -1
         permissions:
             issues: write
             pull-requests: write
