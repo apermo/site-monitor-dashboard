@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Site_Bookkeeper_Dashboard
  * Description: A WordPress plugin.
- * Version:     0.1.1
+ * Version:     0.1.4
  * Author:      Christoph Daum
  * Author URI:  https://apermo.de
  * License:     GPL-2.0-or-later
